@@ -8,13 +8,13 @@ The project is a work in progress and is not yet complete.
 
 ## Features
 
-- [x] View a list of posts
-- [x] View a single post
-- [x] Create a post
-- [x] Upvote and downvote posts
+- [tick] View a list of posts
+- [tick] View a single post
+- [tick] Create a post
+- [tick] Upvote and downvote posts
 - [x] Pagination of posts
-- [x] Comment on posts
-- [x] Nested comments (recursive lists)
+- [tick] Comment on posts
+- [tick] Nested comments (recursive lists)
 - [x] User authentication
 
 ## Setup instructions
