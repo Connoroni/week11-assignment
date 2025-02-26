@@ -1,4 +1,4 @@
-import { signOut } from "@/auth";
+import { signOut } from "@/utils/auth";
 
 export function LogoutButton() {
   async function handleLogout() {
