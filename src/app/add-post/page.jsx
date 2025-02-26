@@ -1,5 +1,5 @@
 import { auth } from "@/utils/auth";
-import { db } from "@/db";
+import { db } from "@/utils/db";
 import { revalidatePath } from "next/cache";
 import { redirect } from "next/navigation";
 import { LoginButton } from "@/components/LoginButton";
