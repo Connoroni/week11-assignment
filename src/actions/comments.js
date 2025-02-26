@@ -1,7 +1,7 @@
 "use server";
 
 import { auth } from "@/utils/auth";
-import { db } from "@/db";
+import { db } from "@/utils/db";
 import { revalidatePath } from "next/cache";
 
 export async function saveComment({ postId, parentCommentId }, formData) {
